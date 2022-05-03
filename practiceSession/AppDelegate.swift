@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  practiceSession
 //
-//  Created by Prathima Juturu Chinna on 14/04/22.
+//  Created by Shreyan on 14/04/22.
 //
 
 import UIKit
